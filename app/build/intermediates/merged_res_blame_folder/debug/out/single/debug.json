@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/layout_fragment_second.xml.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/layout_activity_second.xml.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/layout/activity_second.xml"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/navigation_nav_graph.xml.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-pngs-25:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/layout_fragment_first.xml.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.intent.app-merged_res-30:/layout_activity_third.xml.flat",
+        "source": "com.example.intent.app-main-32:/layout/activity_third.xml"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/xml_backup_rules.xml.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/layout_activity_main.xml.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.intent.app-merged_res-30:/layout_activity_main.xml.flat",
+        "source": "com.example.intent.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/layout_content_second.xml.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/layout/content_second.xml"
+    },
+    {
+        "merged": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-merged_res-30:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/prakash/.gradle/daemon/7.3.3/com.example.intent.app-main-32:/mipmap-mdpi/ic_launcher.webp"
+    }
+]
